@@ -22,14 +22,14 @@ QuizCamp is a dynamic and interactive quiz platform built using Django. It allow
 
 ## Installation
 
-Clone QuizCamp project with git
+Get QuizCamp project with git
 
-```bash
-  git clone https://github.com/rajvardhan78/QuizCamp.git
-```
+1. Clone the repository: `git clone https://github.com/rajvardhan78/QuizCamp.git`
+2. Navigate to the project directory: `cd portfolio-website`
+3. Install the dependencies: `npm install`
     
 ## 🚀 About Me
-I'm a python geek commitment to continuous learning and technical improvement.
+I'm a python geek committed to continuous learning and technical improvement.
 
 
 ## 🛠 Skills
